@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Acturial Science",
+        "summary": "A course in actuarial sciences equips you to scientifically assess risk in various fields, but mainly in insurance, business and finance. Actuaries are an important component of risk-assessment as well as risk-management for any organization. They use various statistical, mathematical and computational methodologies to give their assessment. Some of the job responsibilities of this job profile in life and general insurance business include designing and pricing of policies, monitoring the funds, recommending fair rate of bonus where applicable, insurance risks like legal liability, loss of profit, etc",
+        "career-opportunities": {
+            "insurance-sector": "In the Insurance Sector actuaries look at determining and managing risk for the insurance company. They use complex statistical and mathematical model to analyse the rates of morbidity, mortality, retirement, disability, survivorship and other contingencies for a property or a life insurance applicant.",
+            "buisness-sector": "In business actuaries analyses risk arising from various economic, legal and social trends on the financial health of an organization. They are actively involved in managing Total Cost of Risk (TCR) and containing costs for various liabilities of the organization. In essence, actuaries play a pivotal role in managing the financial health of the organization.",
+            "banking-and-finance-services": "Many leading banks now actively use actuarial services to manage and price risk while giving out loans. The trend has also been fostered by the 2008 debacle of some American banks. In financial institutions, actuaries are involved in assessing the risk and profitability of investments in shares and various other funds.",
+            "health-and-medical": "Off lately, Actuaries are being hired by big hospitals and medical care providers, although the trend is majorly in western countries to assess the risk of changes in various legal policies and in medical assessment procedures such as a change in mental health manual from ICD 9 to ICD 10 or DSM 4 to DSM 5."
+        },
+        "how to become": {
+            "path 1": {
+                "stream": "Clear class 12 in any Stream",
+                "graduation":"Give Actuarial Common Entrance Test (ACET) and complete Certificate in Actuarial Technique (CAT) > Diploma in Actuarial  > Technique (DAT) > Apprenticeship > Fellowship",
+                "after graduation":"practice as an actuary"
+            },
+            "path 2": {
+                "stream": "",
+                "graduation":"",
+                "after graduation":""
+            },
+            "path 3": {
+                "stream": "",
+                "graduation":"",
+                "after graduation":""
+            },
+            "path 4": {
+                "stream": "",
+                "graduation":"",
+                "after graduation":""
+            },
+            "path 5": {
+                "stream": "",
+                "graduation":"",
+                "after graduation":""
+            }
+
+        },
+        "Important Facts":"",
+        "leading institutes":{
+            "1": {
+                "name": "Institute of Actuaries of India (IAI)",
+                "location": "Mumbai, India",
+                "website": "https://www.actuariesindia.org/"
+            },
+            "2": {
+                "name": "",
+                "location": "",
+                "website": ""
+            }
+
+        },
+        "entrance exam":{
+            "name": "Actuarial Common Entrance Test (ACET)",
+            "conducted by": "Institute of Actuaries of India (IAI)",
+            "website": "https://www.actuariesindia.org/",
+            "exam pattern": "The exam consists of multiple-choice questions covering topics such as mathematics, statistics, and financial principles. It is designed to assess the candidate's aptitude for actuarial science."
+        },
+        "work description":["1","2", "3", "4", "5"],
+        "pros and cons":{
+            "pros": [
+                "High earning potential",
+                "Diverse career opportunities in various sectors",
+                "Intellectual challenge and job satisfaction"
+            ],
+            "cons": [
+                "Requires extensive education and professional exams",
+                "Can be stressful due to high responsibility",
+                "Job market can be competitive"
+            ]
+        }
+
+    }
+]
